@@ -1,0 +1,12 @@
+#Lines beggining with @ are printed when parsed and then ignored, if they beggin with # they are ignored. 
+@Test script!
+ if true ido 
+console.log('It is tue!');
+ ifinally 
+
+[!
+Multiline comments
+Are
+Also
+Important
+!]
